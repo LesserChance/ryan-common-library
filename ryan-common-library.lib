@@ -1,0 +1,102 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SJ1-3514
+#
+DEF SJ1-3514 J 0 40 Y N 1 F N
+F0 "J" -500 350 50 H V L BNN
+F1 "SJ1-3514" 100 -300 50 H V L BNN
+F2 "ryan-common-library:CUI_SJ1-3514" 550 1050 50 H I L BNN
+F3 "" 550 950 50 H I L BNN
+F4 "https://www.digikey.com/product-detail/en/cui-inc/SJ1-3514/CP1-3514-ND/738681?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 550 850 50 H I L BNN
+F5 "3.5 mm Right-Angle Stereo Jack, 4 Pin PCB Mount, Threaded w/ Nut" 550 750 50 H I L BNN
+F6 "None" 550 650 50 H I L BNN
+F7 "https://www.cui.com/product/interconnect/audio-connectors/jacks/3.5-mm-jacks/sj1-351x-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM" 550 550 50 H I L BNN
+F8 "SJ1-3514" 550 450 50 H I L BNN
+F9 "CP1-3514-ND" 550 350 50 H I L BNN
+DRAW
+S 500 300 -500 -200 0 1 10 N
+P 2 0 0 6 -350 -175 -300 -175 N
+P 2 0 0 6 -350 75 -350 -175 N
+P 2 0 0 6 -325 75 -350 75 N
+P 2 0 0 6 -325 200 -325 75 N
+P 2 0 0 6 -300 -175 -300 75 N
+P 2 0 0 6 -300 75 -325 75 N
+P 2 0 0 6 -150 50 -200 100 N
+P 2 0 0 6 -100 100 -150 50 N
+P 2 0 0 6 -25 -50 -75 -100 N
+P 2 0 0 6 25 -100 -25 -50 N
+P 2 0 0 6 150 -100 25 -100 N
+P 2 0 0 6 150 0 150 -100 N
+P 2 0 0 6 150 100 -100 100 N
+P 2 0 0 10 500 -200 500 -100 N
+P 2 0 0 6 500 -100 150 -100 N
+P 2 0 0 10 500 -100 500 0 N
+P 2 0 0 6 500 0 150 0 N
+P 2 0 0 10 500 0 500 100 N
+P 2 0 0 6 500 100 150 100 N
+P 2 0 0 10 500 100 500 200 N
+P 2 0 0 6 500 200 -325 200 N
+P 2 0 0 10 500 200 500 300 N
+P 2 0 0 10 500 300 -500 300 N
+P 3 0 0 6 150 -100 125 -50 175 -50 F
+X 1 1 700 200 200 L 40 40 0 0 P
+X 2 2 700 -100 200 L 40 40 0 0 P
+X 3 3 700 100 200 L 40 40 0 0 P
+X 4 4 700 0 200 L 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
+# SJ1-3515
+#
+DEF SJ1-3515 J 0 40 Y N 1 F N
+F0 "J" -500 350 50 H V L BNN
+F1 "SJ1-3515" 100 -400 50 H V L BNN
+F2 "ryan-common-library:CUI_SJ1-3515" 550 1050 50 H I L BNN
+F3 "" 550 950 50 H I L BNN
+F4 "https://www.digikey.com/product-detail/en/cui-inc/SJ1-3515/CP1-3515-ND/738681?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 550 850 50 H I L BNN
+F5 "3.5 mm Right-Angle Stereo Jack, 5 Pin PCB Mount, Threaded w/ Nut" 550 750 50 H I L BNN
+F6 "None" 550 650 50 H I L BNN
+F7 "https://www.cui.com/product/interconnect/audio-connectors/jacks/3.5-mm-jacks/sj1-351x-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM" 550 550 50 H I L BNN
+F8 "SJ1-3515" 550 450 50 H I L BNN
+F9 "CP1-3515-ND" 550 350 50 H I L BNN
+DRAW
+P 2 0 0 10 -500 -300 500 -300 N
+P 2 0 0 10 -500 300 -500 -300 N
+P 2 0 0 6 -350 -175 -300 -175 N
+P 2 0 0 6 -350 75 -350 -175 N
+P 2 0 0 6 -325 75 -350 75 N
+P 2 0 0 6 -325 200 -325 75 N
+P 2 0 0 6 -300 -175 -300 75 N
+P 2 0 0 6 -300 75 -325 75 N
+P 2 0 0 6 -150 50 -200 100 N
+P 2 0 0 6 -100 100 -150 50 N
+P 2 0 0 6 -25 -150 -75 -200 N
+P 2 0 0 6 25 -200 -25 -150 N
+P 2 0 0 6 150 -200 25 -200 N
+P 2 0 0 6 150 -100 150 -200 N
+P 2 0 0 6 150 0 150 100 N
+P 2 0 0 6 150 100 -100 100 N
+P 2 0 0 10 500 -300 500 -200 N
+P 2 0 0 6 500 -200 150 -200 N
+P 2 0 0 10 500 -200 500 -100 N
+P 2 0 0 6 500 -100 150 -100 N
+P 2 0 0 10 500 -100 500 0 N
+P 2 0 0 6 500 0 150 0 N
+P 2 0 0 10 500 0 500 100 N
+P 2 0 0 6 500 100 150 100 N
+P 2 0 0 10 500 100 500 200 N
+P 2 0 0 6 500 200 -325 200 N
+P 2 0 0 10 500 200 500 300 N
+P 2 0 0 10 500 300 -500 300 N
+P 3 0 0 6 150 -200 125 -150 175 -150 F
+P 3 0 0 6 150 100 125 50 175 50 F
+X 1 1 700 200 200 L 40 40 0 0 P
+X 2 2 700 -200 200 L 40 40 0 0 P
+X 3 3 700 100 200 L 40 40 0 0 P
+X 4 4 700 -100 200 L 40 40 0 0 P
+X 5 5 700 0 200 L 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

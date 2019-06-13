@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SJ1-3514
+F https://www.cui.com/product/resource/sj1-351x-series.pdf
+$ENDCMP
+#
+$CMP SJ1-3515
+F https://www.cui.com/product/resource/sj1-351x-series.pdf
+$ENDCMP
+#
+#End Doc Library
